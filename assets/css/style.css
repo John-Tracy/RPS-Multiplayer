@@ -1,0 +1,71 @@
+body {
+	background-color: #04A9E0;
+}
+.container {
+
+}
+.jumbotron {
+	background-color: gray;
+	
+}
+
+#player-uno {
+	margin-left: 130px;
+}
+
+.gameboard {
+	width: 300px;
+	height: 200px;
+	background-color: gray;
+	border: 1px solid black;
+	margin-left: 10px;
+}
+
+.player-start {
+	width: 300px;
+	height: 150px;
+	background-color: gray;
+	border: 1px solid black;
+	margin-left: 440px;
+	margin-bottom: 10px;
+}
+
+#message-display {
+	border: 5px solid black;
+	width: 400px;
+	height: 200px;
+	background-color: white;
+	margin-left: 380px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.text-talk {
+	width: 400px;
+	height: auto;
+	background-color: gray;
+	border: 1px solid black;
+	margin-left: 380px;
+	margin-bottom: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.text-talk input {
+	width: 300px;
+}
+
+.row {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+	margin-top: 40px;
+	background-color: gray;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+footer p {
+	padding: none;
+}
