@@ -21,7 +21,7 @@ body {
 	margin-left: 10px;
 }
 
-.player-start {
+#player-start {
 	width: 300px;
 	height: 150px;
 	background-color: gray;
